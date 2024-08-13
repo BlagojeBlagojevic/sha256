@@ -19,7 +19,7 @@ This project provides a C implementation of the SHA-256 hashing algorithm. SHA-2
 - **Macros**: Defines helper macros for bitwise operations, rotations, and bit manipulation.
 - **Types**: Defines the `HASH_CTX` structure for maintaining the state of the hash computation.
 
-### `hash.c`
+
 
 - **SHA-256 Functions**:
   - `HASH_Init()`: Initializes the hash context.
