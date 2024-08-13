@@ -72,5 +72,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [Wikipedia - SHA-2](https://en.wikipedia.org/wiki/SHA-2): For the detailed explanation of SHA-256.
   
-
+---
 
