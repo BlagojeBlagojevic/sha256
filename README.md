@@ -35,6 +35,7 @@ To use the SHA-256 hashing functions in your C project:
 1. **Include the Header File**:
 
    ```c
+   #define HASH_IMPLEMENTATION
    #include "hash.h"
    ```
 
